@@ -1,0 +1,16 @@
+.main-heading
+{
+   color:"red";
+   background-color: chartreuse;
+}
+
+.main-heading-2
+{
+   color:"green";
+   background-color: brown;
+}
+
+.para-style
+{
+   font-size: 2rem;
+}
